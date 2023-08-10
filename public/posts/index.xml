@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blackbox Dreams</title>
+    <link>https://www.example.com/posts/</link>
+    <description>Recent content in Posts on Blackbox Dreams</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2023. All rights reserved.</copyright>
+    <lastBuildDate>Thu, 10 Aug 2023 11:30:41 -0300</lastBuildDate><atom:link href="https://www.example.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://www.example.com/posts/my-first-post/</link>
+      <pubDate>Thu, 10 Aug 2023 11:30:41 -0300</pubDate>
+      
+      <guid>https://www.example.com/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    
+  </channel>
+</rss>

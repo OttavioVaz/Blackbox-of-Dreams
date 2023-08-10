@@ -1,3 +1,6 @@
 [submodule "LoveIt"]
 	path = LoveIt
 	url = https://github.com/dillonzq/LoveIt
+[submodule "themes/dw-favored-blackburn"]
+	path = themes/dw-favored-blackburn
+	url = https://github.com/dwy6626/dw-favored-blackburn.git

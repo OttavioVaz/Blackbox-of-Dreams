@@ -1,5 +1,5 @@
 languageCode = 'pt-br'
-theme = "blackburn"
+theme = "dw-favored-blackburn"
 baseurl = "https://www.example.com/" # Make sure to end baseurl with a '/'
 title = "BLACKBOX DREAMS"
 author = "Ottavio Apolinário"
@@ -22,6 +22,7 @@ disqus = "Your Disqus shortname"
 highlightjs = "androidstudio"
 highlightjs_extra_languages = ["yaml"]
 dateFormat = "02 Jan 2006, 15:04"
+toc = true
 # Include any custom CSS and/or JS files
 # (relative to /static folder)
 custom_css = ["css/ott_style.css"]
@@ -106,8 +107,8 @@ url = "/contact/"
 #   keybase = "*"
 
 [[menu.main]]
-  name = "About"
-  pre = "<i class='fa fa-user fa-fw'></i>"
-  weight = 2
-  identifier = "about"
-  url = "/about/"
+name = "About"
+pre = "<i class='fa fa-user fa-fw'></i>"
+weight = 2
+identifier = "about"
+url = "/about/"

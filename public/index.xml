@@ -6,16 +6,23 @@
     <description>Recent content on BLACKBOX DREAMS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <copyright>&amp;copy; 2023. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 10 Aug 2023 11:30:41 -0300</lastBuildDate><atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&amp;copy; 2023. All rights reserved.</copyright><atom:link href="https://www.example.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game Design Personal Considerations</title>
-      <link>https://www.example.com/post/game-design-personal-considerations/</link>
+      <title>About</title>
+      <link>https://www.example.com/about/</link>
       <pubDate>Thu, 10 Aug 2023 11:30:41 -0300</pubDate>
       
-      <guid>https://www.example.com/post/game-design-personal-considerations/</guid>
-      <description>CONSIDERATIONS Following are some of the key considerations that I say are well worth the headache and effort required in order to integrate them into each aspect of a game development iteration.
-⚙️ Mechanics: The meat and bones of your game, it refers to the specific actions or interactions that encompasses the interaction, systems and behaviors that will model the game experience. Some common mechanics include one or more of the following purposes: Provide Structure, Create Challenge, Enable Talent, Promote Fun.</description>
+      <guid>https://www.example.com/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.example.com/contact/</link>
+      <pubDate>Thu, 10 Aug 2023 11:30:41 -0300</pubDate>
+      
+      <guid>https://www.example.com/contact/</guid>
+      <description></description>
     </item>
     
   </channel>
